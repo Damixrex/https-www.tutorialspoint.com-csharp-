@@ -1,0 +1,7 @@
+D:\Programowanie\Własne\141293\141293\141293\bin\Debug\141293.exe.config
+D:\Programowanie\Własne\141293\141293\141293\bin\Debug\141293.exe
+D:\Programowanie\Własne\141293\141293\141293\bin\Debug\141293.pdb
+D:\Programowanie\Własne\141293\141293\141293\obj\Debug\141293.csprojResolveAssemblyReference.cache
+D:\Programowanie\Własne\141293\141293\141293\obj\Debug\141293.csproj.CoreCompileInputs.cache
+D:\Programowanie\Własne\141293\141293\141293\obj\Debug\141293.exe
+D:\Programowanie\Własne\141293\141293\141293\obj\Debug\141293.pdb
